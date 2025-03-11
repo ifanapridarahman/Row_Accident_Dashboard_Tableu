@@ -21,5 +21,6 @@ Klien ingin membuat Dashboard Kecelakaan Lalu Lintas untuk tahun 2021 dan 2022 a
 ## Dashboard
 - <a href="https://github.com/ifanapridarahman/Row_Accident_Dashboard_Tableu/blob/main/Dashboard.png">Dashboard</a>
 ![Dashboard](https://github.com/user-attachments/assets/6328086e-a66b-4a52-964a-48ef3ba3b3be)
+- Catatan: Mohon maaf, saya tidak dapat menampilkan peta persebaran karena terjadi ketidaksesuaian saat memasukkan data Latitude dan Longitude. Entah mengapa, titik lokasi pada peta tidak muncul di posisi yang seharusnya.
 
 
